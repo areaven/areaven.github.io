@@ -1,4 +1,5 @@
 body {
     background-image: url("./alphamon.gif");
     background-size: auto;
+    background-repeat: no-repeat;
 }
